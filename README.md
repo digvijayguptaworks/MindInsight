@@ -1,8 +1,8 @@
-#MindInsight  — Mental Health Score Prediction from Social Media Usage
+##  MindInsight  — Mental Health Score Prediction from Social Media Usage
 
 FastAPI service that predicts an exploratory mental health score from social media usage, sleep, stress and lifestyle data. A scikit-learn pipeline (preprocessing + Random Forest) is served through a Pydantic-validated /predict endpoint and deployed on Render, with a simple web form on top.
 
-#Link
+## Link
 Web app (frontend) ->	https://mindinsight-1.onrender.com
 
 
