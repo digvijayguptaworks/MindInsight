@@ -9,7 +9,7 @@ Web app (frontend) ->	https://mindinsight-1.onrender.com
 Hosted on Render's free tier, so the first load may take ~30–60 seconds while the service wakes up.
 
 
-#Tech Stack
+## Tech Stack
 Tool	Purpose
 Python,Pandas -> Data loading, cleaning, feature preparation
 Scikit-learn ->	Preprocessing pipeline, model training, tuning, evaluation
